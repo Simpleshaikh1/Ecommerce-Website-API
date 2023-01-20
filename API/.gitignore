@@ -1,1 +1,2 @@
-/nodem
+/node_modules
+.env
